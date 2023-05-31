@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mockAPI-user/static/css/main.7acaea2f.css",
-    "main.js": "/mockAPI-user/static/js/main.07d3183d.js",
+    "main.css": "/mockAPI-user/static/css/main.6801ecd3.css",
+    "main.js": "/mockAPI-user/static/js/main.bad25a44.js",
     "index.html": "/mockAPI-user/index.html",
-    "main.7acaea2f.css.map": "/mockAPI-user/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/mockAPI-user/static/js/main.07d3183d.js.map"
+    "main.6801ecd3.css.map": "/mockAPI-user/static/css/main.6801ecd3.css.map",
+    "main.bad25a44.js.map": "/mockAPI-user/static/js/main.bad25a44.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.6801ecd3.css",
+    "static/js/main.bad25a44.js"
   ]
 }
