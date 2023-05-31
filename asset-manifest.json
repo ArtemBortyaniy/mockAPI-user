@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mockAPI-user/static/css/main.7acaea2f.css",
+    "main.js": "/mockAPI-user/static/js/main.07d3183d.js",
+    "index.html": "/mockAPI-user/index.html",
+    "main.7acaea2f.css.map": "/mockAPI-user/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/mockAPI-user/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
